@@ -10,7 +10,7 @@
 
 * Site centralizador de links, no estilo Linktree
 
-[🔗 Clique aqui para acessar](https://alineviana.github.io/nlw-esportes-explorer/)
+[🔗 Clique aqui para acessar](https://alineviana.github.io/desafio-rocketseat/)
 
 <br>
 
