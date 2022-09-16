@@ -1,12 +1,12 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
+![preview](./assets/preview.png)
 
 <br>
 
 > ## Trilha Explorer 🚀
 
-* Projeto construído no evento Next Level Week (NLW) da Rocketseat
+* Projeto construído como desafio no evento Next Level Week (NLW) da Rocketseat
 
 * Site centralizador de links, no estilo Linktree
 
@@ -14,7 +14,7 @@
 
 <br>
 
-### 💻 Tecnologias 
+> ### 💻 Tecnologias 
 
 - HTML
 - CSS
@@ -22,8 +22,6 @@
 
 <br>
 
-### 👇 Contato 
-<div>
-<a href="https://www.linkedin.com/in/alinecviana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> 
+> ### Contato 
+[🔗 Clique aqui para acessar](https://www.linkedin.com/in/alinecviana/)
 
