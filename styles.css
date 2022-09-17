@@ -62,8 +62,8 @@ main {
 section {
     color: white;
     background-image: linear-gradient(90deg, #9572FC 0%, #741e31 50.52%, #db3bab 100%);
-    padding-bottom: 5px;
-    padding-right: 6px;
+    padding-bottom: 4px;
+    padding-right: 4px;
     border-radius: 10px;
 }
 
